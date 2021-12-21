@@ -55,7 +55,7 @@ $ cd phisher
 $ bash phisher.sh
 ```
 
-- On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
+- On first launch, It'll install the dependencies and that's it. `phisher` is installed.
 
 
 
@@ -71,7 +71,7 @@ $ bash phisher.sh
 - `cloudflared`
 
 
-> All the dependencies will be installed automatically when you run `Zphisher` for the first time.
+> All the dependencies will be installed automatically when you run `phisher` for the first time.
 
 > Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali/Parrot`**, **`Arch Linux/Manjaro`**, **`Fedora`**, **`MacOS`**
 
