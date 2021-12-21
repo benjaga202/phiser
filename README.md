@@ -72,7 +72,7 @@ $ bash phisher.sh
 
 
 
-### Origin repo name :   [**Zphisher**](https://github.com/htr-tech/zphisher)
+### Original repo name :   [**Zphisher**](https://github.com/htr-tech/zphisher)
 
 >  I added feature to the supported Platform :  **`MacOS`**
 > if you using macOS you need to :
