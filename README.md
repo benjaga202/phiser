@@ -46,7 +46,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
 ```
-$ git clone git://github.com/htr-tech/zphisher.git
+$ git clone https://github.com/theDarkc0mrade/phisher
 ```
 
 - Change to cloned directory and run `phisher.sh` -
