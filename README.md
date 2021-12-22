@@ -75,7 +75,7 @@ $ bash phisher.sh
 ### Original repo name :   [**Zphisher**](https://github.com/htr-tech/zphisher)
 
 >  I added feature to the supported Platform :  **`MacOS`**
-> if you using macOS you need to :
+> IF something not working you need to do :
 
 > 1 install manually ngrok and move ngrok to phisher/.server
 
