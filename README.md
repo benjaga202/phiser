@@ -79,7 +79,9 @@ $ bash phisher.sh
 
 > 1 install manually ngrok and move ngrok to phisher/.server
 
-> 2  install manually cloudflared and move cloudflared to phisher/.server
+> 2 cd phisher/.server && ./ngrok "your auth token"
+
+> 3 install manually cloudflared and move cloudflared to phisher/.server
 
 ### Special Thanks :
 
