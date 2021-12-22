@@ -126,6 +126,8 @@ dependencies() {
 					pkg install "$pkg" -y
 				elif [[ `command -v apt` ]]; then
 					apt install "$pkg" -y
+				elif [[ `command -v brew` ]]; then
+					brew install "$pkg" -y
 				elif [[ `command -v apt-get` ]]; then
 					apt-get install "$pkg" -y
 				elif [[ `command -v pacman` ]]; then
@@ -230,8 +232,7 @@ about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
 		${GREEN}Author   ${RED}:  ${ORANGE}TAHMID RAYAT ${RED}[ ${ORANGE}HTR-TECH ${RED}]
-		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/htr-tech
-		${GREEN}Social   ${RED}:  ${CYAN}https://linktr.ee/tahmid.rayat
+		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/theDarkc0mrade
 		${GREEN}Version  ${RED}:  ${ORANGE}2.2
 
 		${REDBG}${WHITE} Thanks : Adi1090x,MoisesTapia,ThelinuxChoice
