@@ -36,7 +36,6 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 
 ### Installation
-
 - Just, Clone this repository -
 ```
 $ git clone https://github.com/theDarkc0mrade/phisher
@@ -47,8 +46,27 @@ $ git clone https://github.com/theDarkc0mrade/phisher
 $ cd phisher
 $ bash phisher.sh
 ```
-
 - On first launch, It'll install the dependencies and that's it. `phisher` is installed.
+### If something not working 
+
+- Mannually install cloudflared from this site -
+``
+https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/installation
+``
+- Then unzip file and move to /phisher/.server/ -
+```
+$ mv cloudflared "path/to/phisher"
+```
+- Mannually install ngrok from this site -
+``
+https://ngrok.com/download
+``
+- Then unzip file and move to /phisher/.server/ -
+```
+$ mv ngrok "path/to/phisher"
+```
+
+
 
 
 
