@@ -90,7 +90,6 @@ $ mv ngrok "path/to/phisher"
 
 
 
-### Original repo name :   [**Zphisher**](https://github.com/htr-tech/zphisher)
 
 >  I added feature to the supported Platform :  **`MacOS`**
 > IF something not working you need to do :
